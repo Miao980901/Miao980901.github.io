@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-(TBD)
-
 My research interests: Computer Vision, Medical Imaging, Few-shot Learning
 
 
