@@ -51,4 +51,4 @@ My research interests: Computer Vision, Medical Imaging, Few-shot Learning
 
 
 # 💻 Internships
-- *2021.04 - 2021.09*, [PVmed Ltd.]([https://github.com/](https://www.pvmedtech.com/en/)), Guangzhou, China.
+- *2021.04 - 2021.10*, [PVmed Ltd.]([https://github.com/](https://www.pvmedtech.com/en/)), Guangzhou, China.
