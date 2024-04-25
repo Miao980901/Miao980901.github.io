@@ -30,7 +30,7 @@ My research interests: Computer Vision, Medical Imaging, Few-shot Learning
 
 # 📝 Publications 
 
-[Deep Learning based Technique for Classification of Abdominal Aortic Aneurysm (AAA) in CT-Scan Images]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/9977972))
+- [Deep Learning based Technique for Classification of Abdominal Aortic Aneurysm (AAA) in CT-Scan Images]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/document/9977972))
 
 **Zhiqi Miao**, Worapan Kusakunniran, Thanongchai Siriapisith, Pairash Saiviroonporn
 
