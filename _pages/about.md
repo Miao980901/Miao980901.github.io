@@ -35,10 +35,10 @@ My research interests: Computer Vision, Medical Imaging, Few-shot Learning
 
 
 # 🎖 Honors and Awards
-- *2019.11*  Scholarship for Contribution of Social Work, College of Software, SNU
-- *2017.10*  Second Class Scholarship for Academic Excellence, College of Software, SNU
-- *2017.10*  Scholarship for Contribution of Social Work, College of Software, SNU
-- *2017.04*  Best Class Monitor, College of Software, SNU
+- *2019.11*  Scholarship for Contribution of Social Work, College of Software, SNU (Top 10%)
+- *2017.10*  Second Class Scholarship for Academic Excellence, College of Software, SNU (Top 5%)
+- *2017.10*  Scholarship for Contribution of Social Work, College of Software, SNU (Top 10%)
+- *2017.04*  Best Class Monitor, College of Software, SNU (1/12)
 
   
 
