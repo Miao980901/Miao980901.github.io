@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiqi Miao homepage"
-description              : "Welcome to the ZHiqi's world"
+description              : "Welcome to the Zhiqi's world"
 repository               : "Miao980901/Miao980901.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         : "University of Groningen"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "z.miao@rug.nl"
+  email            : "z.miao[at]rug[dot]nl"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
