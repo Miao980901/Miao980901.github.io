@@ -50,7 +50,8 @@ My research interests: Computer Vision, Medical Imaging, Few-shot Learning
 - *2021.01 - 2023.03*, Mahidol University (Thai name: มหาวิทยาลัยมหิดล)
 - *2016.09 - 2020.06*, Shenyang Normal University (Chinese name: 沈阳师范大学）
 
-
+# 💬 Invited Talks
+- *TBD
 
 # 💻 Internships
 - *2021.04 - 2021.10*, [PVmed Ltd.](https://www.pvmedtech.com/en/), Guangzhou, China.
