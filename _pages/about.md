@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# About me
+# 🙋🏻‍♂️ About me
 My research interests: Computer Vision, Medical Imaging, Few-shot Learning
 
 
