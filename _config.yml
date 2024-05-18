@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiqi Miao homepage"
-description              : Contact: z[dot]miao[at]rug[dot]nl
+description              : "Contact: z[dot]miao[at]rug[dot]nl"
 repository               : "Miao980901/Miao980901.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -30,17 +30,6 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "z.miao@rug.nl"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  # uri              :
-  # bitbucket        :
-  # codepen          :
-  # dribbble         :
-  # flickr           :
-  # facebook         :
-  # foursquare       :
-  # github           : # e.g., "github username"
-  # google_plus      :
-  # keybase          :
-  # instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/zhiqi-miao-162499255/"
