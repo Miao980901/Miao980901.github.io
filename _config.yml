@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiqi Miao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Always be kind, positive, and full of appreciation to the world  |   Contact: z[dot]miao[at]rug[dot]nl"
+  bio              : "Always be kind, positive, and full of appreciation to the world"
   location         : "Groningen, the Netherlands"
   employer         : "University of Groningen"
   pubmed           : 
